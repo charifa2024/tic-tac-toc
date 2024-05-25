@@ -1,0 +1,33 @@
+#game{
+    width: 500px;
+    height: 500px;
+    text-align: center;
+    font-family:system-ui;
+    color: black;
+    margin: auto;
+    font-weight: 500;
+}
+.title{
+    background-color: violet;
+    padding:10px 0;
+    margin: 10px 0;
+    font-size: larger;
+}
+span{
+    color: floralwhite;
+}
+.square{
+    width: 130px;
+    height: 130px;
+    background-color: violet;
+    float: left;
+    margin: 18px;
+    font-size: 50px;
+    }
+.square:hover{
+    background-color: blueviolet;
+    cursor: pointer;
+}
+#part1{
+    text-align: center;
+}
